@@ -1,0 +1,19 @@
+-- Install configuration: ""
+-- Up-to-date: /home/mym/ros2_ws/src/right_tech_arm_description/install/right_tech_arm_description/share/right_tech_arm_description/urdf
+-- Up-to-date: /home/mym/ros2_ws/src/right_tech_arm_description/install/right_tech_arm_description/share/right_tech_arm_description/urdf/right_arm.urdf
+-- Up-to-date: /home/mym/ros2_ws/src/right_tech_arm_description/install/right_tech_arm_description/share/right_tech_arm_description/urdf/both_arm.urdf
+-- Up-to-date: /home/mym/ros2_ws/src/right_tech_arm_description/install/right_tech_arm_description/share/right_tech_arm_description/meshes
+-- Up-to-date: /home/mym/ros2_ws/src/right_tech_arm_description/install/right_tech_arm_description/share/right_tech_arm_description/meshes/Link6.STL
+-- Up-to-date: /home/mym/ros2_ws/src/right_tech_arm_description/install/right_tech_arm_description/share/right_tech_arm_description/meshes/Link2.STL
+-- Up-to-date: /home/mym/ros2_ws/src/right_tech_arm_description/install/right_tech_arm_description/share/right_tech_arm_description/meshes/Link4.STL
+-- Up-to-date: /home/mym/ros2_ws/src/right_tech_arm_description/install/right_tech_arm_description/share/right_tech_arm_description/meshes/Link7.STL
+-- Up-to-date: /home/mym/ros2_ws/src/right_tech_arm_description/install/right_tech_arm_description/share/right_tech_arm_description/meshes/base_link.STL
+-- Up-to-date: /home/mym/ros2_ws/src/right_tech_arm_description/install/right_tech_arm_description/share/right_tech_arm_description/meshes/Link5.STL
+-- Up-to-date: /home/mym/ros2_ws/src/right_tech_arm_description/install/right_tech_arm_description/share/right_tech_arm_description/meshes/Link3.STL
+-- Up-to-date: /home/mym/ros2_ws/src/right_tech_arm_description/install/right_tech_arm_description/share/right_tech_arm_description/meshes/Link1.STL
+-- Up-to-date: /home/mym/ros2_ws/src/right_tech_arm_description/install/right_tech_arm_description/share/right_tech_arm_description/launch
+-- Up-to-date: /home/mym/ros2_ws/src/right_tech_arm_description/install/right_tech_arm_description/share/right_tech_arm_description/launch/robot_arm_control_launch.py
+-- Up-to-date: /home/mym/ros2_ws/src/right_tech_arm_description/install/right_tech_arm_description/share/right_tech_arm_description/launch/robot_description.launch.py
+-- Up-to-date: /home/mym/ros2_ws/src/right_tech_arm_description/install/right_tech_arm_description/share/right_tech_arm_description/launch/robot_arm_dual_control.launch.py
+-- Up-to-date: /home/mym/ros2_ws/src/right_tech_arm_description/install/right_tech_arm_description/share/right_tech_arm_description/rviz
+-- Up-to-date: /home/mym/ros2_ws/src/right_tech_arm_description/install/right_tech_arm_description/lib/right_tech_arm_description/robot_arm_control_node.py

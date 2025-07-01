@@ -1,0 +1,6 @@
+[31mCMake Error at cmake_install.cmake:55 (file):
+  file INSTALL cannot find
+  "/home/mym/ros2_ws/src/right_tech_arm_description/src/right_tech_arm_description/dual_arm_endpose_controller.py":
+  No such file or directory.
+
+[0m

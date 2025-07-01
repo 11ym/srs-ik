@@ -1,0 +1,3 @@
+第一步：conda deactivate,然后launch 启动
+
+第二步：编译之后记得 source install/setup.bash 

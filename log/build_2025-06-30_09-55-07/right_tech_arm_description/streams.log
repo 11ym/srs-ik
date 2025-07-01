@@ -1,0 +1,37 @@
+[0.008s] Invoking command in '/home/mym/ros2_ws/build/right_tech_arm_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/mym/ros2_ws/build/right_tech_arm_description -- -j20 -l20
+[0.039s] Invoked command in '/home/mym/ros2_ws/build/right_tech_arm_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/mym/ros2_ws/build/right_tech_arm_description -- -j20 -l20
+[0.047s] Invoking command in '/home/mym/ros2_ws/build/right_tech_arm_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/mym/ros2_ws/build/right_tech_arm_description
+[0.054s] -- Install configuration: ""
+[0.054s] -- Up-to-date: /home/mym/ros2_ws/install/right_tech_arm_description/share/right_tech_arm_description/urdf
+[0.054s] -- Up-to-date: /home/mym/ros2_ws/install/right_tech_arm_description/share/right_tech_arm_description/urdf/right_arm.urdf
+[0.054s] -- Up-to-date: /home/mym/ros2_ws/install/right_tech_arm_description/share/right_tech_arm_description/urdf/both_arm.urdf
+[0.054s] -- Up-to-date: /home/mym/ros2_ws/install/right_tech_arm_description/share/right_tech_arm_description/meshes
+[0.055s] -- Up-to-date: /home/mym/ros2_ws/install/right_tech_arm_description/share/right_tech_arm_description/meshes/Link6.STL
+[0.055s] -- Up-to-date: /home/mym/ros2_ws/install/right_tech_arm_description/share/right_tech_arm_description/meshes/Link2.STL
+[0.055s] -- Up-to-date: /home/mym/ros2_ws/install/right_tech_arm_description/share/right_tech_arm_description/meshes/Link4.STL
+[0.055s] -- Up-to-date: /home/mym/ros2_ws/install/right_tech_arm_description/share/right_tech_arm_description/meshes/Link7.STL
+[0.055s] -- Up-to-date: /home/mym/ros2_ws/install/right_tech_arm_description/share/right_tech_arm_description/meshes/base_link.STL
+[0.055s] -- Up-to-date: /home/mym/ros2_ws/install/right_tech_arm_description/share/right_tech_arm_description/meshes/Link5.STL
+[0.055s] -- Up-to-date: /home/mym/ros2_ws/install/right_tech_arm_description/share/right_tech_arm_description/meshes/Link3.STL
+[0.055s] -- Up-to-date: /home/mym/ros2_ws/install/right_tech_arm_description/share/right_tech_arm_description/meshes/Link1.STL
+[0.055s] -- Up-to-date: /home/mym/ros2_ws/install/right_tech_arm_description/share/right_tech_arm_description/launch
+[0.055s] -- Up-to-date: /home/mym/ros2_ws/install/right_tech_arm_description/share/right_tech_arm_description/launch/robot_arm_control_launch.py
+[0.055s] -- Up-to-date: /home/mym/ros2_ws/install/right_tech_arm_description/share/right_tech_arm_description/launch/robot_description.launch.py
+[0.056s] -- Up-to-date: /home/mym/ros2_ws/install/right_tech_arm_description/share/right_tech_arm_description/rviz
+[0.056s] -- Installing: /home/mym/ros2_ws/install/right_tech_arm_description/lib/right_tech_arm_description/robot_arm_control_node.py
+[0.056s] -- Up-to-date: /home/mym/ros2_ws/install/right_tech_arm_description/share/ament_index/resource_index/package_run_dependencies/right_tech_arm_description
+[0.057s] -- Up-to-date: /home/mym/ros2_ws/install/right_tech_arm_description/share/ament_index/resource_index/parent_prefix_path/right_tech_arm_description
+[0.057s] -- Up-to-date: /home/mym/ros2_ws/install/right_tech_arm_description/share/right_tech_arm_description/environment/ament_prefix_path.sh
+[0.057s] -- Up-to-date: /home/mym/ros2_ws/install/right_tech_arm_description/share/right_tech_arm_description/environment/ament_prefix_path.dsv
+[0.058s] -- Up-to-date: /home/mym/ros2_ws/install/right_tech_arm_description/share/right_tech_arm_description/environment/path.sh
+[0.058s] -- Up-to-date: /home/mym/ros2_ws/install/right_tech_arm_description/share/right_tech_arm_description/environment/path.dsv
+[0.058s] -- Up-to-date: /home/mym/ros2_ws/install/right_tech_arm_description/share/right_tech_arm_description/local_setup.bash
+[0.058s] -- Up-to-date: /home/mym/ros2_ws/install/right_tech_arm_description/share/right_tech_arm_description/local_setup.sh
+[0.058s] -- Up-to-date: /home/mym/ros2_ws/install/right_tech_arm_description/share/right_tech_arm_description/local_setup.zsh
+[0.058s] -- Up-to-date: /home/mym/ros2_ws/install/right_tech_arm_description/share/right_tech_arm_description/local_setup.dsv
+[0.059s] -- Installing: /home/mym/ros2_ws/install/right_tech_arm_description/share/right_tech_arm_description/package.dsv
+[0.059s] -- Up-to-date: /home/mym/ros2_ws/install/right_tech_arm_description/share/ament_index/resource_index/packages/right_tech_arm_description
+[0.059s] -- Up-to-date: /home/mym/ros2_ws/install/right_tech_arm_description/share/right_tech_arm_description/cmake/right_tech_arm_descriptionConfig.cmake
+[0.059s] -- Up-to-date: /home/mym/ros2_ws/install/right_tech_arm_description/share/right_tech_arm_description/cmake/right_tech_arm_descriptionConfig-version.cmake
+[0.059s] -- Up-to-date: /home/mym/ros2_ws/install/right_tech_arm_description/share/right_tech_arm_description/package.xml
+[0.059s] Invoked command in '/home/mym/ros2_ws/build/right_tech_arm_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/mym/ros2_ws/build/right_tech_arm_description

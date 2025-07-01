@@ -1,0 +1,4 @@
+source;share/right_tech_arm_description/local_setup.bash
+source;share/right_tech_arm_description/local_setup.dsv
+source;share/right_tech_arm_description/local_setup.sh
+source;share/right_tech_arm_description/local_setup.zsh
