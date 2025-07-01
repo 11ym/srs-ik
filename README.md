@@ -23,3 +23,13 @@ rosdep install --from-paths src --ignore-src -r -y
 
 # 编译工作空间
 colcon build
+
+## 🔧 使用方法
+# 加载环境
+source install/setup.bash
+
+# 启动机械臂描述
+ros2 launch right_tech_arm_description robot_description.launch.py
+
+# 启动机械臂控制
+ros2 launch right_tech_arm_description robot_arm_control_launch.py
